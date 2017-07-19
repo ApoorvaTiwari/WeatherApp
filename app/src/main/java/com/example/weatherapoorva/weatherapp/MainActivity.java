@@ -66,3 +66,5 @@ public class MainActivity extends ActionBarActivity {
         new CityPreference(this).setCity(city);
     }
 }
+
+//This is my Test Comment
