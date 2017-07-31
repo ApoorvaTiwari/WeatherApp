@@ -3,17 +3,13 @@ package com.example.weatherapoorva.weatherapp;
 import android.content.DialogInterface;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.AlertDialogLayout;
 import android.text.InputType;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.inputmethod.InputBinding;
 import android.widget.EditText;
 
 public class MainActivity extends ActionBarActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

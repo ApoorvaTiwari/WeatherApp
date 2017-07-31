@@ -8,7 +8,7 @@ import android.content.SharedPreferences;
  * Created by Apoorva on 16-07-2017.
  */
 
-public class CityPreference {
+public class CityPreference  {
 
     SharedPreferences prefs;
 
